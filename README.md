@@ -1,24 +1,18 @@
-# README
+# Manual_Jam
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Proyecto para la generacion 4, realizado en rails 7
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+Seguir los requisites del desafio guiado
 
-* System dependencies
+https://empieza.desafiolatam.com/cohorts/1831/sections/74900/activities/114080/items/588912
 
-* Configuration
 
-* Database creation
+Apoyarse en la guia de autenticacion manual
 
-* Database initialization
+https://empieza.desafiolatam.com/cohorts/1831/sections/74899
 
-* How to run the test suite
+Recomiendo la siguiente guia
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://coder-solution-es.com/solution-es-blog/1156299
