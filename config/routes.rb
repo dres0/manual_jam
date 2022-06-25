@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
-  resources :stories
-  root "stories#index"
+  resources :sessions, only: [:new, :create, :destroy]
+  root "home#index"
 end

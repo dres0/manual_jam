@@ -1,0 +1,7 @@
+<%= current_user ? "Hola usuario: #{current_user.email}" : 'Hola extraño' %>
+<br>
+<% if current_user %>
+  <%= link_to('Cerrar sesion', session_path(current_user), method: :delete) %>
+<% else %>
+  <%= link_to('Iniciar sesion', new_session_path) %>
+<% end %>
